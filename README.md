@@ -1,2 +1,3 @@
+Cmdveg==
 
-goz
+izq
