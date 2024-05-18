@@ -1,3 +1,3 @@
-UTI1a2IyRlJQVDBLQ25kamNnPT0KCnRydg==
+VVRJMWEySXlSbEpRVkRCTFEyNWthbU5uUFQwS0NuUnlkZz09CgpkdG8=
 
-dto
+buy
