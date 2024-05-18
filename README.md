@@ -1,2 +1,3 @@
+CnNucA==
 
-snp
+qks
